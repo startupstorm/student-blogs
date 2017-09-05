@@ -1,12 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<opml version="1.0">
+<opml version="2.0">
   <head>
     <title>List of UBC Student Blogs</title>
   </head>
   <body>
-    <outline text="Japanese Engineering Blogs" title="Japanese Engineering Blogs">
-         <!-- Example
- 		<outline type="rss" text="SITE-TITLE-HERE" title="SITE-TITLE-HERE" xmlUrl="http://example.com/feed" htmlUrl="http://example.com/"/>
+    <outline text="Atsushi Yamamoto's blog" title="Atsushi Yamamoto's blog" xmlUrl='http://jumbosushi.github.io/feed.xml' />
+    <!-- Example
+ 		<outline text="Example Text" title="Example Title" xmlUrl="http://example.com/feed"/>
 	 -->
      </outline>
   </body>
