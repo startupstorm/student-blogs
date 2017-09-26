@@ -15,4 +15,5 @@ Please see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 | Name        | Blog           | RSS  |
 | ------------- |:-------------:| -----:|
-| Atsushi Yamamoto      | http://jumbosushi.github.io/ | [Link](http://jumbosushi.github.io/feed.xml) |
+| Atsushi Yamamoto | http://jumbosushi.github.io/ | [Link](http://jumbosushi.github.io/feed.xml) |
+| Tristan Rice | https://fn.lc | N/A |

@@ -10,7 +10,8 @@ Move to the directory:
 
     cd student-blogs
 
-Make your change. Push to your fork and [submit a pull request][pr].
+Make your change. Add your name in alphabetical order.  
+Push to your fork and [submit a pull request](pr).
 
 At this point you're waiting on us. We'll do our best to review it within few days. We may suggest some changes or improvements or alternatives.
 
